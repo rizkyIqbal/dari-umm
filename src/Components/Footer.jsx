@@ -46,7 +46,7 @@ function Footer() {
         </div>
         <hr className="mt-6" />
         <p className="text-center font-medium mt-6">
-          © 2024 DARI Team. All Rights Reserved
+          © 2024 Trijaya Team. All Rights Reserved
         </p>
       </div>
     </>
